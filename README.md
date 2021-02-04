@@ -1,1 +1,1 @@
-"# projecteuler" 
+# ProjectEuler.net Solutions
